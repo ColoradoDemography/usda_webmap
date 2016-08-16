@@ -1,0 +1,13 @@
+{
+  "name": "usda_webmap",
+  "version": "1.0.0",
+  "description": "ACS Data Web Map for USDA",
+  "author": "Rob Kemp <robert.kemp@state.co.us>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
