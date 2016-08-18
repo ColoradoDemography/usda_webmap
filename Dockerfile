@@ -12,4 +12,4 @@ RUN npm install
 COPY . /usr/src/app
 
 EXPOSE 4545
-CMD [ "npm", "start" ]
+CMD [ "node", "app.js" ]
